@@ -1,2 +1,1 @@
-# jokenpo
-jogo para colocar no mobile
+# Jokenpo-back
