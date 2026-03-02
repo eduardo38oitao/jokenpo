@@ -1,0 +1,17 @@
+{
+    "name":"jokenpo",
+    "short_name":"joke",
+    "star_url":"./",
+    "display":"standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#0d6efd",
+    "icons":[{
+        "src":"icone 192x192.png",
+        "size":"192x192",
+        "type":"imagem/png"
+    },{
+        "src":"icone 512x512.png",
+        "size":"512x512",
+        "type":"imagem/png"
+    }]
+}
